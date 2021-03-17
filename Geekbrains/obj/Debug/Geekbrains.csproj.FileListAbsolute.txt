@@ -1,0 +1,7 @@
+E:\2021\Repo\Geekbrains\Geekbrains\obj\Debug\Geekbrains.csprojAssemblyReference.cache
+E:\2021\Repo\Geekbrains\Geekbrains\obj\Debug\Geekbrains.csproj.CoreCompileInputs.cache
+E:\2021\Repo\Geekbrains\Geekbrains\bin\Debug\Geekbrains.exe.config
+E:\2021\Repo\Geekbrains\Geekbrains\bin\Debug\Geekbrains.exe
+E:\2021\Repo\Geekbrains\Geekbrains\bin\Debug\Geekbrains.pdb
+E:\2021\Repo\Geekbrains\Geekbrains\obj\Debug\Geekbrains.exe
+E:\2021\Repo\Geekbrains\Geekbrains\obj\Debug\Geekbrains.pdb

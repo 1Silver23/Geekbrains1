@@ -1,0 +1,6 @@
+E:\2021\Repo\Geekbrains\Анкета  +  обЪёмтела\bin\Debug\Анкета  +  обЪёмтела.exe.config
+E:\2021\Repo\Geekbrains\Анкета  +  обЪёмтела\bin\Debug\Анкета  +  обЪёмтела.exe
+E:\2021\Repo\Geekbrains\Анкета  +  обЪёмтела\bin\Debug\Анкета  +  обЪёмтела.pdb
+E:\2021\Repo\Geekbrains\Анкета  +  обЪёмтела\obj\Debug\Анкета  +  обЪёмтела.csproj.CoreCompileInputs.cache
+E:\2021\Repo\Geekbrains\Анкета  +  обЪёмтела\obj\Debug\Анкета  +  обЪёмтела.exe
+E:\2021\Repo\Geekbrains\Анкета  +  обЪёмтела\obj\Debug\Анкета  +  обЪёмтела.pdb

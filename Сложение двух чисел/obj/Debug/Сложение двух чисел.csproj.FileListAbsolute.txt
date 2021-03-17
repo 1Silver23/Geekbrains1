@@ -1,0 +1,6 @@
+E:\2021\Repo\Geekbrains\Сложение двух чисел\bin\Debug\Сложение двух чисел.exe.config
+E:\2021\Repo\Geekbrains\Сложение двух чисел\bin\Debug\Сложение двух чисел.exe
+E:\2021\Repo\Geekbrains\Сложение двух чисел\bin\Debug\Сложение двух чисел.pdb
+E:\2021\Repo\Geekbrains\Сложение двух чисел\obj\Debug\Сложение двух чисел.csproj.CoreCompileInputs.cache
+E:\2021\Repo\Geekbrains\Сложение двух чисел\obj\Debug\Сложение двух чисел.exe
+E:\2021\Repo\Geekbrains\Сложение двух чисел\obj\Debug\Сложение двух чисел.pdb

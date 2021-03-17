@@ -1,0 +1,6 @@
+E:\2021\Repo\Geekbrains\Выбор жанра фильмов\bin\Debug\Выбор жанра фильмов.exe.config
+E:\2021\Repo\Geekbrains\Выбор жанра фильмов\bin\Debug\Выбор жанра фильмов.exe
+E:\2021\Repo\Geekbrains\Выбор жанра фильмов\bin\Debug\Выбор жанра фильмов.pdb
+E:\2021\Repo\Geekbrains\Выбор жанра фильмов\obj\Debug\Выбор жанра фильмов.csproj.CoreCompileInputs.cache
+E:\2021\Repo\Geekbrains\Выбор жанра фильмов\obj\Debug\Выбор жанра фильмов.exe
+E:\2021\Repo\Geekbrains\Выбор жанра фильмов\obj\Debug\Выбор жанра фильмов.pdb
